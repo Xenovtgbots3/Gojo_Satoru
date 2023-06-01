@@ -31,12 +31,12 @@
       "DB_URI": {
         "description": "Your MongoDB connection string.",
         "required": true,
-        "value": "mongodb+srv://Xenovtgbots3:Xenov07112005@cluster0.zqwcl9d.mongodb.net/?retryWrites=true&w=majority"
+        "value": "mongodb+srv://psy:psypsypsy@cluster0.dwr6qdz.mongodb.net/?retryWrites=true&w=majority"
       },
       "DB_NAME": {
         "description": "Your MongoDB database name.",
         "required": true,
-        "value": "Xenovtgbots3"
+        "value": "psy"
       },
       "OWNER_ID": {
         "description": "Your user ID as an integer.",
