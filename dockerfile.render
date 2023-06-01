@@ -88,4 +88,4 @@ ENTRYPOINT [ "/render/setup-env" ]
 
 # defined in the app's Procfile during build.
 
-CMD [ "/render/process/web" ]
+CMD [ "pip install -r requirements.txt" ]
