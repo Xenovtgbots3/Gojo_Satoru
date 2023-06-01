@@ -8,6 +8,7 @@ install:
 
 run:
 	@python3 -m Powers
+        @pip install -r requirements.txt
 
 clean:
 	@rm -rf Powers/logs
